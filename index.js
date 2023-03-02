@@ -1,1 +1,5 @@
-console.log("master branch")
+function mul(a,b) {
+    return a*b;
+}
+const multiply=mul(2,3)
+console.log(multiply);
