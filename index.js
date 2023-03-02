@@ -1,1 +1,4 @@
-console.log("master branch")
+function div(a,b) {
+    return a/b;
+}
+console.log(div(16,4));
